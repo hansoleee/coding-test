@@ -1,4 +1,4 @@
-package progammers;
+package progammers.learn.courses._30.lessons;
 
 import java.util.HashMap;
 import java.util.HashSet;
@@ -9,7 +9,7 @@ import java.util.Set;
  * https://programmers.co.kr/learn/courses/30/lessons/92334
  * 신고 결과 받기
  */
-public class LearnCourses30Lessons92334 {
+public class _92334 {
 
     /**
      * @param id_list ["muzi", "frodo", "apeach", "neo"]
